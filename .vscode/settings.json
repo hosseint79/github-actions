@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["categorylist", "tanstack", "uuidv"],
+  "files.exclude": {
+    "**/.git": false
+  }
+}
